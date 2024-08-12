@@ -1,0 +1,11 @@
+{
+  "name": "pollpal",
+  "version": "1.0.0",
+  "description": "backend application to elect a candidate",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rahul kumar",
+  "license": "ISC"
+}
